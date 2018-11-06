@@ -4,6 +4,9 @@
 
 ![][Imagen_1]
 
+#Historia
+Un tiempo después de 1974, Xerox consiguió el primer encaminador funcional, aunque el primer y verdadero enrutador IP fue desarrollado por Virginia Stazisar en BBN, como parte de ese esfuerzo promovido por DARPA, durante 1975-76. A finales de 1976, tres encaminadores basados en PDP-11 entraron en servicio en el prototipo experimental de Internet.
+
 # Funcionamiento
 
 El funcionamiento básico de un enrutador o encaminador, como se deduce de su nombre, consiste en enviar los paquetes de red por el camino o ruta más adecuada en cada momento. Cada encaminador se encarga de decidir el siguiente salto en función de su tabla de reenvío o tabla de encaminamiento, la cual se genera mediante protocolos que deciden cuál es el camino más adecuado o corto.
